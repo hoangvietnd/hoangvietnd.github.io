@@ -1,2 +1,0 @@
-2828<br />
-<b>Warning</b>:  mysqli_close() expects parameter 1 to be mysqli, null given in <b>/home/statw3layouts/public_html/Source/OpenDb_close.php</b> on line <b>2</b><br />
