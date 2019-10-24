@@ -10393,3 +10393,111 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+  .booking-heading {
+    background: #ffc107;
+    padding: 75px 0 59px 220px;
+    height: 280px;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .set-bg {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+  }
+  .booking-heading .booking-inner-text h2 {
+  	font-size: 48px;
+  	color: #ffffff;
+  	margin-bottom: 6px;
+  }
+
+  .booking-heading .booking-inner-text p {
+  	color: #ffffff;
+  }
+  .booking-heading .booking-inner-text h2 {
+		font-size: 30px;
+	}
+  .booking-heading {
+		padding: 75px 0 59px 180px;
+	}
+	.booking-heading .booking-inner-text h2 {
+		font-size: 30px;
+	}
+  .booking-heading {
+		padding: 75px 0 59px 50px;
+	}
+  .booking-form {
+		height: 425px;
+	}
+  .booking-form {
+	padding-right: 30px;
+	padding-top: 71px;
+	padding-bottom: 20px;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding-left: 30px;
+	background: #F3F4FF;
+	height: 265px;
+}
+.booking-form input {
+	width: 100%;
+	height: 48px;
+	border: none;
+	font-family: "Oswald", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+
+.booking-form input:not(.submit-btn) {
+	padding-left: 25px;
+}
+
+.booking-form input::-webkit-input-placeholder {
+	color: #858585;
+}
+
+.booking-form input::-moz-placeholder {
+	color: #858585;
+}
+
+.booking-form input:-ms-input-placeholder {
+	color: #858585;
+}
+
+.booking-form input::-ms-input-placeholder {
+	color: #858585;
+}
+
+.booking-form input::placeholder {
+	color: #858585;
+}
+.booking-form {
+		height: auto;
+	}
+  .booking-form {
+  		height: 280px;
+  }
+  .contact-form .submit-btn.contact-btn {
+  	width: 186px;
+  	height: 65px;
+  	background: #82D026;
+  	color: #ffffff;
+  	padding: 0;
+  	font-style: normal;
+  	font-family: "Oswald", sans-serif;
+  	font-weight: 500;
+  	font-size: 14px;
+  	letter-spacing: 0.5px;
+  }
+  .submit-btn {
+	color: #ffffff;
+	background: #ffc107;
+	font-size: 14px;
+	font-weight: 400;
+	border: none;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	cursor: pointer;
+}
