@@ -10508,3 +10508,12 @@ textarea.form-control {
 	text-transform: uppercase;
 	cursor: pointer;
 }
+tr td a{
+  color: #997300;
+}
+thead tr th{
+  text-align: center;
+}
+#stt{
+  text-align: center;
+}
